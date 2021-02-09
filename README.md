@@ -1,2 +1,4 @@
 # OlaMundo
- Primeiro Repositorio Versionado
+ Primeiro Repositorio Versionado do Git e GitHub.
+
+ Reposiótio criado durante uma aula.
